@@ -1,3 +1,3 @@
 # Demo
 
-html, css and javascript based website
+html, css and javascript based website.
